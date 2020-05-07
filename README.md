@@ -1,3 +1,3 @@
-# Project name
+# Update Manager
 
-Description
+Library: Automatic sync & update system for everything - Java
